@@ -10,4 +10,4 @@ To get started with this project, clone the repository and open the notebook in 
 
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/PRODIGY_ML_01.git
-cd PRODIGY_TrackCode_Task1
+cd PRODIGY_ML_01
